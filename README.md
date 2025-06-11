@@ -314,8 +314,6 @@ jaya-jaya-institut-dropout-prediction/
 - **Muhammad Ilham Aji Firmansyah** - Data Scientist
   - Email: ilhamaji2001@gmail.com
   - Role: Complete project development, modeling, and deployment
-- **Jaya Jaya Institut** - Domain Expert and Data Provider
 - **Dicoding Academy** - Dataset Provider (Applied Data Science Final Project)
 
 ## License
-This project is developed for Jaya Jaya Institut's internal use and educational purposes as part of Dicoding's Applied Data Science course final project.
