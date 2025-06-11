@@ -87,7 +87,7 @@ Untuk menjalankan proyek ini, diperlukan setup environment sebagai berikut:
 **Installation:**
 ```bash
 # Clone repository
-git clone https://github.com/Syzst/student-performance-prediction
+git clone https://github.com/Syzst/student-performance-prediction/tree/main
 
 # Install dependencies
 pip install -r requirements.txt
