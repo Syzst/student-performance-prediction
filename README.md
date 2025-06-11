@@ -1,4 +1,4 @@
-# Jaya Jaya Institut - Student Dropout Prediction Project
+# Proyek Akhir: Menyelesaikan Permasalahan Perusahaan Edutech
 
 ## Business Understanding
 
@@ -87,7 +87,7 @@ Untuk menjalankan proyek ini, diperlukan setup environment sebagai berikut:
 **Installation:**
 ```bash
 # Clone repository
-git clone <repository-url>
+git clone https://github.com/Syzst/student-performance-prediction
 
 # Install dependencies
 pip install -r requirements.txt
